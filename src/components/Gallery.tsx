@@ -12,7 +12,7 @@ export const Gallery = () =>{
       alt: "Enhanced gym photo uploaded by user"
     },
     {
-      src: "/gym-photos/imazh2.jpg", 
+      src: "/angels2/gym-photos/imazh2.jpg", 
       alt: "Weight training area"
     },
     {

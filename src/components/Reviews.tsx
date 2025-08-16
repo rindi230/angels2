@@ -5,25 +5,25 @@ export const Reviews = () => {
       name: "Rory O Brien",
       rating: 5,
       review: "Perhaps the best gym I've ever been to. Loads of machines that are all in top condition and a solid free weights area too.",
-      image: "/gym-photos/rory.png"
+      image: "/angels2/gym-photos/rory.png"
     },
     {
       name: "Vojna Ngjeqari",
       rating: 5,
       review: "Amazing. All the possible Equipment. I completed my physiotherapy here. Great, friendly staff. Thank You to Genti and the staff. Shume falemnderit!",
-      image: "/gym-photos/vojna.png"
+      image: "/angels2/gym-photos/vojna.png"
     },
     {
       name: "Luis Rozario",
       rating: 5,
       review: "Very good equipment, they have everything.Paid 600 LEK for a day.They accept card.",
-      image: "/gym-photos/luis.png"
+      image: "/angels2/gym-photos/luis.png"
     },
     {
       name: "Adriano Antimi",
       rating: 5,
       review: "Great gym. Probably the best in Tirana for trainers and equipment. There are “fancy” alternatives with better showers and changing rooms, but I still prefer Angel’s Fitness in the area.",
-      image: "/gym-photos/adriano.png"
+      image: "/angels2/gym-photos/adriano.png"
     }
   ];
 
